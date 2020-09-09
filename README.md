@@ -13,6 +13,8 @@ The text above the avatar tells you how close you are to invisible debris.
 Avoid the debris and try to swim to the top to win.
 If you get too close to the debris, you risk getting impaled and dying.
 
+[![Titanic](Screenshot of Demo.PNG)](https://youtu.be/-O7jldpQppI "Titanic Demo")
+
 *Developed using Javascript and HTML.*
 *Project done during Google CSSI 2020.*
 
